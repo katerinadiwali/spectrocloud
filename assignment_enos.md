@@ -6,7 +6,7 @@ You can use the `kubectl` command-line tool to debug Kubernetes clusters. The `k
 - [`kubectl describe`](#kubectl-describe)
 - [`kubectl logs`](#kubectl-logs)
 - [`kubectl debug`](#kubectl-debug)
-- [`kubectl exec`](#kubectl-exec)
+- [`kubectl exec`](#kubectl-exec) 
 
 For `kubectl` installation and detailed reference information, see [Command line tool (kubectl)](https://kubernetes.io/docs/reference/kubectl/) in the Kubernetes.io [reference](https://kubernetes.io/docs/reference/).
 
